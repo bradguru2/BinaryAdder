@@ -1,5 +1,10 @@
 package com.binary;
 
+/**
+ * Class showing how to add two binary string emulating how a CPU adds
+ * @author bradley
+ *
+ */
 public class StringAdder {
 
 	public static String AddBinary(String a, String b)
